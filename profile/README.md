@@ -9,5 +9,7 @@ If you know of any missing code, please create a new issue in the [TODO](https:/
 # Active Archives
 This section links to archives that seem to be maintained or are already hosted on a repository in GitHub or GitLab.
 
+* [Far Horizons](https://github.com/playbymail/Far-Horizons) - version 7.5
+
 # Other Archives
 This sections links to archives that seem to be abandonded.
